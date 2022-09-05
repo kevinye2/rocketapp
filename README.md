@@ -17,6 +17,9 @@ Built with Django, and Django's REST Framework module. The database used is SQLi
 > pip3 install -r requirements.txt
 
 
+Apply migrations for data models.
+> python manage.py migrate
+
 Load dummy rocket data.
 > python manage.py loaddata data.json # loads in data from a directory called fixtures (Django specific)
 
