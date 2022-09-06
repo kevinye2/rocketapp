@@ -2,7 +2,7 @@
 
 Built with Django, and Django's REST Framework module. The database used is SQLite, Python's bundled self-contained, file-based SQL database. Tested locally on MacOS.
 
-0. Install python3 if not already installed.
+### 0. Install python3 if not already installed.
 
 ### 1. To build the app, clone the repo.
 ```
